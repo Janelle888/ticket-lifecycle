@@ -41,7 +41,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <br />
 
-- Create your user, add their information and select your "Help Topic"
+- Create your user, add their information and select your "Help Topic". Once you do that summarize your issue and then create your ticket.
   
 <p>
 
@@ -49,7 +49,23 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+ <b> The tickets are created now we can look into what it takes to solve each ticket. </b>
+ 
+- Now log into osTicket as an agent and look over the tickets that you have created. Take notice of the priority and sender of each ticket.
+
+ ![image](https://github.com/Janelle888/ticket-lifecycle/assets/142438143/de6ff719-af21-4db8-969d-ac413e4f3dcd)
+
+ - If need be the admin could even assign tickets to specific agents.
+
+ <p>
+________________________________________________________________________________________________________________________________________________________
+  
+  - Click on a ticket and see what is going on inside.
+
+![image](https://github.com/Janelle888/ticket-lifecycle/assets/142438143/0d843e95-5f83-4d7a-844b-bd970526b50d)
+
+ </p>
 </p>
 <br />
 
