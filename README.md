@@ -8,7 +8,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Environments and Technologies Used</h2>
 
-- ### [YouTube: Video](https://www.youtube.com)
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
@@ -24,6 +23,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Assignment and Communication
 - Working the Issue
 - Resolution
+
+- ### [YouTube: Video](https://www.youtube.com)
 
 <h2>Lifecycle Stages</h2>
 
