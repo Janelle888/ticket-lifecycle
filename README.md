@@ -8,6 +8,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Environments and Technologies Used</h2>
 
+- ### [YouTube: Video](https://www.youtube.com)
+
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
